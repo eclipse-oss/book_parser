@@ -32,7 +32,7 @@ while True:
     for item in themes_list:
         print(f"{item},  ", end=' ')
     print()
-    print("Enter the topic or (type everything u want (no book name from list!)): ")
+    print("Enter the topic or (type everything u want for leave(no book name from list!)): ")
     answer = input()
     if answer not in themes_list:
         break
