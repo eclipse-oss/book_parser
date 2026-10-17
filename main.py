@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
+#V1 synchronous version using the requests library
 #url of main page and main_page_soup
 main_page_url = "https://books.toscrape.com/"
 main_page_response = requests.get(main_page_url).text
