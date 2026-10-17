@@ -52,11 +52,11 @@ example of excel
 ## ⚙️ Console Demo
 
 ```text
-Enter the topic or (type everything u want): sequential-art_5
-How many books do you want to parse? (min: 1, max: 75): 25
+Enter the topic or (type everything u want to leave):
+sequential-art_5
+How many books do you want to parse? (min: 1, max: 75):
+25
 
-[Progress]: Fetching data from page 1...
-[Progress]: Fetching data from page 2...
 All data has been hastily recorded!
 ```
 <img width="1553" height="368" alt="image" src="https://github.com/user-attachments/assets/1b75f81c-70ad-43b2-87c0-889dcbf7f31e" />
