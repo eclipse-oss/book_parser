@@ -35,6 +35,12 @@ A lightweight, interactive command-line web scraper built with Python to automat
    python main.py
    ```
 
+*. **or you can use install scrips**
+   ``` windows and linux (macOS)
+   windows_install.bat
+   linux_install.sh
+   ```
+
 ---
 
 ## 📊 Exported Data Structure Example
